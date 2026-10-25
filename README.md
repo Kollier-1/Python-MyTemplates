@@ -42,8 +42,14 @@ python-exercises/
 │   ├── read_selected_file_lines.py
 │   ├── write_text_lines_to_file.py
 │   └── ...
+│ 
+├── 05-fuctions/
+│   ├── crypto_converter.py
+│   ├── mp3_player.py
+│   └── ...
 │
 └── README.md
+
 ```
 
 *Note: The structure above illustrates the organization of the repository. The files listed in each folder are examples.*
